@@ -1,0 +1,92 @@
+header{
+	text-align:center;
+}
+
+figure a{
+	text-decoration:none;
+	color:white;
+}
+
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 80%;
+	text-align:center;
+	margin:0 auto;
+}
+
+.flex-item {
+    width: 175px;
+    height: 175px;
+    margin: 5px auto;
+	border: 1px solid gray;
+	background-color:gray;
+	color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.coming-soon{
+	background-image:url("../images/coming_soon.png");
+}
+
+.flex-container figure {
+    margin:auto;
+    padding:0;
+    position:relative;
+    cursor:pointer;
+  
+}
+.flex-container figure img {
+    display:block;
+    position:relative;
+    z-index:10;
+   
+}
+.flex-container figure figcaption {
+    display:block;
+    position:absolute;
+    z-index:5;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box
+}
+
+.flex-container figure figcaption {
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    padding:29px 44px;
+    background-color:white;
+    text-align:center;
+    backface-visibility:hidden;
+    -webkit-transform:rotateY(-180deg);
+    -moz-transform:rotateY(-180deg);
+    transform:rotateY(-180deg);
+    -webkit-transition:all .5s;
+    -moz-transition:all .5s;
+    transition:all .5s
+}
+.flex-container figure img {
+    backface-visibility:hidden;
+    -webkit-transition:all .5s;
+    -moz-transition:all .5s;
+    transition:all .5s
+}
+.flex-container figure:hover img,figure.hover img {
+    -webkit-transform:rotateY(180deg);
+    -moz-transform:rotateY(180deg);
+    transform:rotateY(180deg)
+}
+.flex-container figure:hover figcaption,figure.hover figcaption {
+    -webkit-transform:rotateY(0);
+    -moz-transform:rotateY(0);
+    transform:rotateY(0)
+}
+
+
+
+
