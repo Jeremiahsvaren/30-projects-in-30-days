@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
+
+button {
+    border-radius: 5px;
+    font-size: 48px;
+    margin: 20px;
+    padding: 30px;
+}
