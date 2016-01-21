@@ -11,7 +11,7 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 ~Day 1 - Built a webpage to showcase all of the future projects.
 
-~Day 2 - Choose your faviorte animale, kittens or puppies.
+~Day 2 - Choose your faviorte animal, kittens or puppies.
 
 ~Day 3 - Try to catch the frog from Frog Town!
 
