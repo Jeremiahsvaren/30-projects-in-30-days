@@ -1,0 +1,11 @@
+header{
+	text-align:center;
+}
+
+.frog {
+    float:left;
+    position:absolute;
+    left:0px;
+    width:64px;
+    height:64px;
+}

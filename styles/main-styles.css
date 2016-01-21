@@ -1,10 +1,30 @@
-header{
-	text-align:center;
+body{
+	padding:0;
+	margin:0;
 }
+
+header, footer{
+    background-color: #bababa;
+    margin: 0;
+    padding: 2px 20px;
+    text-align: center;
+}
+
+	
+
+h1{
+	text-decoration:underline;
+	padding-top:10px;
+	font-size:48px;
+}
+
+#body{
+	background-color: #dddddd;
+}
+	
 
 figure a{
 	text-decoration:none;
-	color:white;
 }
 
 
@@ -16,6 +36,9 @@ figure a{
     width: 80%;
 	text-align:center;
 	margin:0 auto;
+	padding-top:30px;
+	padding-bottom:20px;
+	clear:both;
 }
 
 .flex-item {
@@ -23,17 +46,17 @@ figure a{
     height: 175px;
     margin: 5px auto;
 	border: 1px solid gray;
-	background-color:gray;
-	color: white;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	background-color:gray;	
 }
-
 .coming-soon{
 	background-image:url("../images/coming_soon.png");
+	background-color:gray;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
 
 .flex-container figure {
-    margin:auto;
+    margin:5px auto;
     padding:0;
     position:relative;
     cursor:pointer;
@@ -59,7 +82,7 @@ figure a{
     left:0;
     width:100%;
     height:100%;
-    padding:29px 44px;
+    padding:20px 24px;
     background-color:white;
     text-align:center;
     backface-visibility:hidden;
@@ -86,6 +109,41 @@ figure a{
     -moz-transform:rotateY(0);
     transform:rotateY(0)
 }
+
+figcaption{
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
