@@ -9,10 +9,10 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 # Break Down of the Days
 
-~Day 1 - Built a webpage to showcase all of the future projects.
+<strong>Day 1</strong> - Built a webpage to showcase all of the future projects.
 
-~Day 2 - Choose your faviorte animal, kittens or puppies.
+<strong>Day 2</strong> - Choose your faviorte animal, kittens or puppies.
 
-~Day 3 - Try to catch the frog from Frog Town!
+<strong>Day 3</strong> - Try to catch the frog from Frog Town!
 
-~Day 4 - ...
+<strong>Day 4</strong> - Take part in the Browsers War!
