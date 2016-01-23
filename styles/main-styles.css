@@ -9,6 +9,9 @@ header, footer{
     padding: 2px 20px;
     text-align: center;
 }
+footer{
+	clear: both;
+}
 
 	
 

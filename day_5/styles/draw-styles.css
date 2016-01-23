@@ -1,0 +1,134 @@
+html, body{
+	height:100%;
+	margin:0px;
+	padding:0px;
+	background:gray;
+}
+
+h1{
+	margin: auto;
+    max-width: 75%;
+}
+
+.main{
+	max-width:100%;
+}
+
+
+
+#link_back{
+	float:left;
+}
+
+#github{
+	float:right;
+}
+
+/***************START COLOR-PICKER****************/
+
+#color-picker {
+    border: 3px solid black;
+	margin:auto;
+    text-align: center;
+	background-color:tan;
+	width:80%;
+}
+
+
+.color{
+	width:40px;
+	height:40px;
+	border:2px solid black;
+	margin:10px;
+	border-radius:50%;
+	display:inline-block;
+	cursor: url('../images/paint.cur'), pointer;
+}
+
+.size{
+	
+	float:right;
+	border:2px solid black;
+	margin: 10px;
+	border-radius:50%;
+	display:inline-block;
+	cursor:pointer;
+}
+
+.small{
+	width:20px;
+	height:20px;
+}
+
+.medium{
+	width:30px;
+	height:30px;
+	font-size:24px;	
+}
+
+.large{
+	width:40px;
+	height:40px;
+	font-size:36px;
+}
+
+.red{
+	background-color:#FF0000;
+}
+
+.yellow{
+	background-color:#FFFF00;
+}
+
+.blue{
+	background-color:#0000FF;
+}
+
+.green{
+	background-color:#008000;
+}
+
+.purple{
+	background-color:#800080;
+}
+
+.orange{
+	background-color:#FFA500;
+}
+
+.black{
+	background-color:#000000;
+}
+
+.white{
+	background-color:#ffffff;
+}
+
+/***************END COLOR-PICKER****************/
+
+#content{
+    position: absolute;
+    top: 217px;
+    left: 0px;
+    right: 0px;
+    bottom: 100px;
+    overflow:hidden;
+    background-color:#ddd;
+	
+}
+
+
+canvas{
+	background-color:white;
+	cursor: url('../images/brush.cur'), auto;
+
+}
+
+
+
+
+
+
+
+
+
