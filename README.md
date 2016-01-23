@@ -17,4 +17,4 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 4</strong> - Take part in the Browsers War!
 
-<strong>Day 5</strong> - It's Almost done!! (1/21/2015 @ 3:50PM Central Time)
+<strong>Day 5</strong> - Draw on the paint board!
