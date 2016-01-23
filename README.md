@@ -18,3 +18,5 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 <strong>Day 4</strong> - Take part in the Browsers War!
 
 <strong>Day 5</strong> - Draw on the paint board!
+
+<strong>Day 6</stong> - Will be posted by the end of Saturday Jan 22 2016
