@@ -19,4 +19,6 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 5</strong> - Draw on the paint board!
 
-<strong>Day 6</stong> - Will be posted by the end of Saturday Jan 22 2016
+<strong>Day 6</strong> - Color The Rainbow!
+
+<strong>Day 7</strong> - Will be posted on Sunday Jan 23 2016
