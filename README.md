@@ -25,4 +25,4 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 8</strong> - A cool hallway illusion.
 
-<strong>Day 9</strong> - Will be posted Jan. 27th 2016
+<strong>Day 9</strong> - Will be posted Jan. 28th 2016
