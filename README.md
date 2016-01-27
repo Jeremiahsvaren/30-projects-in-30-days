@@ -22,3 +22,5 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 <strong>Day 6</strong> - Color The Rainbow!
 
 <strong>Day 7</strong> - Made it snow in honor of Blizzard 2016
+
+<strong>Day 8</strong> - A cool hallway illusion.
