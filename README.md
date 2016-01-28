@@ -27,6 +27,6 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 9</strong> - Let me guess what State you're currently in.
 
-<strong>Day 10</strong> - Will be posted Jan. 27th 2016
+<strong>Day 10</strong> - A preview of whats to come with CSS animations
 
 <strong>Day 11</strong> - Will be posted Jan. 28th 2016
