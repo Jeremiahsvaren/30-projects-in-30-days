@@ -1,0 +1,63 @@
+#link_back{
+	float:left;
+}
+
+#github{
+	float:right;
+}
+
+html, body{
+	height:100%;
+	width:100%;
+}
+
+h1{
+	width:50%;
+	margin:auto;
+}
+
+footer {
+	
+	height:100px;
+}
+
+.element {
+  height: 250px;
+  width: 250px;
+  margin: 0;
+  background-color: red;
+  animation-name: stretch;
+  animation-duration: 3.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+@keyframes stretch {
+  0% {
+    transform: scale(.01);
+    background-color: red;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: orange;
+  }
+  100% {
+    transform: scale(1.5);
+    background-color: yellow;
+  }
+}
+
+
+#main {
+  height: 100%;
+}
+
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
