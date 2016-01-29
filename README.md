@@ -29,4 +29,6 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 10</strong> - A preview of whats to come with CSS animations
 
-<strong>Day 11</strong> - Will be posted Jan. 28th 2016
+<strong>Day 11</strong> - Provide feedback on the project so far.
+
+<strong>Day 12</strong> - Will be posted Jan. 29th 2016
