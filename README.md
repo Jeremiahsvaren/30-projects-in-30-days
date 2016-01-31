@@ -31,4 +31,6 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 11</strong> - Provide feedback on the project so far.
 
-<strong>Day 12</strong> - Will be posted Jan. 29th 2016
+<strong>Day 12</strong> - Fill out a survey about your favorite social platform.
+
+<strong>Day 12</strong> - Will be posted Jan. 31st 2016
