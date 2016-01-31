@@ -1,0 +1,45 @@
+html,body{
+	height:100%;
+	width:100%;
+}
+
+#github{
+	float:right;
+
+}
+
+#link_back{
+	float:left;
+}
+
+
+
+label, li {
+	display: block;
+	padding: 5px;
+	font-size: 1.4em;
+
+}
+fieldset {
+	margin: 115px auto;
+	width: 400px;
+	padding: 8px 15px 15px 15px;
+	border: 1px solid black;
+	display: block; /* IE 7 Requires This */
+	}
+legend {
+	padding: 4px 6px 4px 6px;
+	border: 1px solid black;
+	font-size: 2.0em;
+	font-style: italic;
+}
+ul { list-style: none; margin-bottom: 15px;}
+.results-bar {
+	padding: 5px;
+	color: black;
+	background-color:gray;
+	white-space: nowrap;
+}
+span.total-votes {
+	font-size: 2.6em;
+}
