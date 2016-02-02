@@ -1,0 +1,78 @@
+
+#link_back{
+	float:left;
+}
+
+#github{
+	float:right;
+}
+
+body{
+	height:100%;
+	width:100%;
+}
+
+h1{
+	width:50%;
+	margin:auto;
+}
+
+#main{
+	text-align:center;
+	margin:0 auto;
+}
+
+#sky{
+	position:absolute;
+	height:915px;
+	width:2000px;
+	background:url(../images/sky.jpg) repeat-x;
+	-webkit-transition: 3s ease-in;
+    -moz-transition: 3s ease-in;
+    -o-transition: 3s ease-in;
+    transition: 3s ease-in;
+}
+
+#plane{
+	position: absolute;
+    bottom: 400px;
+    left: 20px;
+    -webkit-transition: 2s ease-in;
+    -moz-transition: 2s ease-in;
+    -o-transition: 2s ease-in;
+    transition: 2s ease-in;
+}
+
+#plane div{
+	width: 428px;
+    height: 126px;
+    background: url(../images/jet.png) no-repeat;
+    -webkit-transition: 2s ease-in-out;
+    -moz-transition: 2s ease-in-out;
+    -o-transition: 2s ease-in-out;
+    transition: 2s ease-in-out;
+}
+
+#sky:hover #plane {
+    -webkit-transform: translate(1200px,-300px);
+    -moz-transform: translate(1200px,-300px);
+    -o-transform: translate(1200px,-300px);
+    -ms-transform: translate(1200px,-300px);
+    transform: translate(1200px,-300px);
+}
+#sky:hover #plane div {
+    -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+	
+}
+  
+#sky:hover{
+	-webkit-transform: translate(-400px);
+    -moz-transform: translate(-400px);
+    -o-transform: translate(-400px);
+    -ms-transform: translate(-400px);
+    transform: translate(-400px);
+} 

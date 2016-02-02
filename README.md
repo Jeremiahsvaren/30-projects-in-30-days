@@ -33,4 +33,6 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 12</strong> - Fill out a survey about your favorite social platform.
 
-<strong>Day 13</strong> - Will be posted Feb. 1st due to creative block
+<strong>Day 13</strong> - Flying Jets using CSS animations.
+
+<strong>Day 14</strong> - Will be posted Feb. 2nd
