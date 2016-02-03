@@ -1,0 +1,19 @@
+.main{
+	width:50%;
+	margin:0 auto;
+	text-align:center;
+}
+
+.first, .second{
+	padding-top:50px;
+	width:25%;
+	margin:0 auto;
+}
+
+.first{
+	float:left;
+}
+
+.second{
+	float:right;
+}

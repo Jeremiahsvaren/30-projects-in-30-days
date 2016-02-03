@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Weather API</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/main-styles.css" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+	<div class="main">
+    <h1>Hows the weather?</h1>
+	
+	<div class="row">
+	  
+		<div class="input-group">
+		  <input type="text" class="form-control" id="cityField" placeholder="Search By City Name...">
+		  <span class="input-group-btn">
+			<button class="btn btn-default" type="button" id="cityName">Go!</button>
+		  </span>
+		</div><!-- /input-group -->
+		<div class="input-group">
+		  <input type="text" pattern="[0-9][0-9][0-9][0-9][0-9]" class="form-control" id="zipField" placeholder="Search By Zipcode..." title="Must be 5 digits">
+		  <span class="input-group-btn">
+			<button class="btn btn-default" type="button" id="zip">Go!</button>
+		  </span>
+		</div><!-- /input-group -->
+	  
+	</div><!-- /.row -->
+	<div class="btn-group" role="group" aria-label="...">
+	  <button type="button" class="fahrenheit btn btn-default active">Fahrenheit</button>
+	  <button type="button" class="celsius btn btn-default">Celsius</button>
+	</div>
+		<div class='first'>
+			<div class='today'></div>
+			<div class='todayIcon'></div>
+			<div class = 'todayWeather'></div>
+			<div class='todayTemp'></div>
+		</div>
+		<div class='second'>
+			<div class='tomorrow'></div>
+			<div class='tomorrowIcon'></div>
+			<div class = 'tomorrowWeather'></div>
+			<div class='tomorrowTemp'></div>
+		</div>
+		
+	</div>	
+	
+	
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
+  </body>
+</html>

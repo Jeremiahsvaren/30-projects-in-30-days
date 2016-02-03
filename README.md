@@ -35,4 +35,6 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 13</strong> - Flying Jets using CSS animations.
 
-<strong>Day 14</strong> - Will be posted Feb. 2nd
+<strong>Day 14</strong> - Check the weather for today and tomorrow
+
+<strong>Day 15</strong> - Will be posted Feb. 3rd.
