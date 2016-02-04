@@ -1,0 +1,188 @@
+#link_back{
+	float:left;
+}
+
+#github{
+	float:right;
+}
+
+body{
+	height:100%;
+	width:100%;
+}
+
+h1{
+	width:50%;
+	margin:auto;
+}
+
+#main{
+	text-align:center;
+	margin:0 auto;
+}
+
+#frame {
+  -webkit-perspective: 800px;
+  -webkit-perspective-origin: 50% 200px;
+  -moz-perspective: 800px;
+  -moz-perspective-origin: 50% 200px;
+  perspective: 800px;
+  perspective-origin: 50% 200px;
+}
+
+#cube {
+  position: relative;
+  margin: 100px auto;
+  height: 400px;
+  width: 400px;
+  -webkit-transition: -webkit-transform 2s linear;
+  -webkit-transform-style: preserve-3d;
+  -moz-transition: -moz-transform 2s linear;
+  -moz-transform-style: preserve-3d;
+  transition: transform 2s linear;
+  transform-style: preserve-3d;
+}
+
+.face {
+  position: absolute;
+  height: 360px;
+  width: 360px;
+  padding: 20px;
+  background-color: rgba(50, 50, 50, 1.0);
+  font-size: 27px;
+  line-height: 1em;
+  color: #fff;
+  border: 1px solid #555;
+  border-radius: 3px;
+}
+
+#cube .one  {
+  -webkit-transform: rotateX(90deg) translateZ(200px);
+  -moz-transform: rotateX(90deg) translateZ(200px);
+  transform: rotateX(90deg) translateZ(200px);
+}
+
+#cube .two {
+  -webkit-transform: translateZ(200px);
+  -moz-transform: translateZ(200px);
+  transform: translateZ(200px);
+}
+
+#cube .three {
+  -webkit-transform: rotateY(90deg) translateZ(200px);
+  -moz-transform: rotateY(90deg) translateZ(200px);
+  transform: rotateY(90deg) translateZ(200px);
+}
+
+#cube .four {
+  -webkit-transform: rotateY(180deg) translateZ(200px);
+  -moz-transform: rotateY(180deg) translateZ(200px);
+  transform: rotateY(180deg) translateZ(200px);
+}
+
+#cube .five {
+  -webkit-transform: rotateY(-90deg) translateZ(200px);
+  -moz-transform: rotateY(-90deg) translateZ(200px);
+  transform: rotateY(-90deg) translateZ(200px);
+}
+
+#cube .six {
+  -webkit-transform: rotateX(-90deg) rotate(180deg) translateZ(200px);
+  -moz-transform: rotateX(-90deg) rotate(180deg) translateZ(200px);
+  transform: rotateX(-90deg) rotate(180deg) translateZ(200px);
+}
+
+
+.dots{
+	height:100px;
+	width:100px;
+	background-color:white;
+	border-radius:50%;
+}
+
+.one .dots{
+	
+	margin: 140px 120px 100px 130px;
+}
+
+.two .dots:nth-child(2){
+	margin: 150px 0 0 250px;
+}
+
+.three .dots:nth-child(1){
+	margin: 0 0 0 250px;
+}
+
+.three .dots:nth-child(2){
+	margin: 25px 0 0 125px;
+}
+
+.three .dots:nth-child(3){
+	margin: 25px 0 0 0;
+}
+/***side four of the cube is the side of the die with 5 on it..**/
+.four .dots:nth-child(2){
+	float:right;
+	margin-top: -100px;
+}
+
+.four .dots:nth-child(3){
+	float:right;
+	margin-top: 160px;
+}
+
+.four .dots:nth-child(4){
+	float: right;
+    margin-right: 25px;
+    margin-top: 30px;
+}
+
+.four .dots:nth-child(5){
+	margin-top: 160px;
+}
+
+.five .dots:nth-child(2){
+	float:right;
+	margin-top: -100px;
+}
+
+.five .dots:nth-child(3){
+	float:right;
+	margin-top: 160px;
+}
+
+.five .dots:nth-child(4){
+	margin-top: 160px;
+	
+}
+
+.six .dots:nth-child(1){
+	margin-bottom: 30px;
+}
+
+.six .dots:nth-child(2){
+	margin-bottom: 30px;
+}
+
+
+.six .dots:nth-child(4){
+	margin-top: -360px;
+	margin-left: 260px;
+	margin-bottom: 30px;
+}
+
+.six .dots:nth-child(5){
+	margin-left: 260px;
+	margin-bottom: 30px;
+}
+
+.six .dots:nth-child(6){
+	margin-left: 260px;
+}
+
+
+
+
+
+
+

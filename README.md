@@ -37,6 +37,6 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 14</strong> - Check the weather for today and tomorrow
 
-<strong>Day 15</strong> - Will be posted Feb. 3rd.
+<strong>Day 15</strong> - Roll the dice using arrow keys. 
 
 <strong>Day 16</strong> - Will be posted Feb. 4th.
