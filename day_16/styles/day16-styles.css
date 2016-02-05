@@ -1,0 +1,34 @@
+#link_back{
+	float:left;
+}
+
+#github{
+	float:right;
+}
+
+body{
+	height:100%;
+	width:100%;
+}
+
+h1{
+	width:50%;
+	margin:auto;
+}
+
+#main{
+	text-align:center;
+	margin:0 auto;
+	padding-top: 60px;
+}
+
+
+.sunrise{
+	padding-bottom: 20px;
+}
+
+img{
+	padding: 60px;
+	border-radius: 50%;
+	border-top: 2px solid black;
+}
