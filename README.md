@@ -41,4 +41,4 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 16</strong> - Get sunrise and sunset times for your current location.
 
-<strong>Day 17</strong> - Will be posted Feb. 5th.
+<strong>Day 17</strong> - Will be posted Feb. 7th.
