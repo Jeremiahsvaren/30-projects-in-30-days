@@ -37,8 +37,8 @@ View the the showcase <a href="http://challenge.jeremiahsvaren.com/">here</a>.
 
 <strong>Day 14</strong> - Check the weather for today and tomorrow
 
-<strong>Day 15</strong> - Roll the dice using arrow keys. 
+<strong>Day 15</strong> - Roll the die using arrow keys. 
 
 <strong>Day 16</strong> - Get sunrise and sunset times for your current location.
 
-<strong>Day 17</strong> - I'm falling a little behind here so I need to do some serious catching up this week.
+<strong>Day 17</strong> - I had a lot going on with these past few days so I am looking to start fresh tomorrow. Trying not to focus to much on where I slipped up and focusing more on completing the 30 projects.
